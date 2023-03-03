@@ -207,6 +207,8 @@ main img {
 @media (min-width: 600px) {
   main .section {
     padding: 64px 32px;
+     margin: auto;
+     max-width: 800px
   }  
 }
 
@@ -233,5 +235,5 @@ main .section[data-section-status='initialized'] {
 }
 
 main .section.highlight {
-  background-color: var(--highlight-background-color);
+  background-color: #6782B4;
 }
