@@ -17,6 +17,7 @@ header nav {
   padding: 0 1rem;
   background-color: var(--background-color);
   font-family: var(--body-font-family);
+  border-bottom: 1px solid #EAEAEA;
 }
 
 header nav[aria-expanded=true] {
@@ -52,7 +53,7 @@ header nav p {
 }
 
 header nav a:any-link {
-  color: currentcolor;
+  color: #fa0f00;
 }
 
 /* hamburger */
