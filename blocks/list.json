@@ -19,5 +19,12 @@
   "docTable": true,
   "reference": "https://www.hlx.live/developer/block-collection/hero",
   "icon": "fa-panorama"
-  }
+  },
+  {
+    "name": "video",
+    "preview": true,
+    "docTable": true,
+    "reference": "https://www.hlx.live/developer/block-collection/hero",
+    "icon": "fa-panorama"
+    }
   ]
