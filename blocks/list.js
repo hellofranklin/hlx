@@ -3,7 +3,8 @@ const blocks = [
     'footer',
     'columns',
     'header',
-    'hero'
+    'hero',
+    'video'
   ];
   
   export default blocks;
